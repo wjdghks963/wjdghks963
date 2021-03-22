@@ -13,7 +13,7 @@
 # Study
 
 
-### algorithm
+### Algorithm
 - [Algorithm Python](https://github.com/wjdghks963/algorithm)
 
 ### React
