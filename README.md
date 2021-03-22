@@ -21,7 +21,7 @@
 ### TypeScript
 - 
 ### Python
-- 
+- [scraper](https://github.com/wjdghks963/python_scraper)
 
 <!---
 wjdghks963/wjdghks963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
