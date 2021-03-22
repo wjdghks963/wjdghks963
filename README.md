@@ -20,6 +20,8 @@
 - 
 ### TypeScript
 - 
+### Python
+- 
 
 <!---
 wjdghks963/wjdghks963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
