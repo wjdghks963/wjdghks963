@@ -18,9 +18,9 @@
 
 ### React
 - [react](https://github.com/wjdghks963/react)
-- 
-### TypeScript
 
+### TypeScript
+- 
 
 ### Python
 - [scraper](https://github.com/wjdghks963/python_scraper)
