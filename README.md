@@ -17,11 +17,14 @@
 - [Algorithm Python](https://github.com/wjdghks963/algorithm)
 
 ### React
+- [react](https://github.com/wjdghks963/react)
 - 
 ### TypeScript
-- 
+
+
 ### Python
 - [scraper](https://github.com/wjdghks963/python_scraper)
+- [challenge](https://github.com/wjdghks963/challenge_python)
 
 <!---
 wjdghks963/wjdghks963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
