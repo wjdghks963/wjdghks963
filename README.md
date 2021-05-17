@@ -17,7 +17,8 @@
 - [Algorithm Python](https://github.com/wjdghks963/algorithm)
 
 ### React
-- [es6](https://github.com/wjdghks963/react)
+- [es6&ts](https://github.com/wjdghks963/react)
+- [react&ts]()
 - [react with movie api](https://github.com/wjdghks963/nomflix)
 ### TypeScript
 - 
