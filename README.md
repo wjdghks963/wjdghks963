@@ -18,7 +18,7 @@
 
 ### React
 - [es6&ts](https://github.com/wjdghks963/react)
-- [react&ts]()
+- [react&ts](https://github.com/wjdghks963/typescrip-react-demo)
 - [react with movie api](https://github.com/wjdghks963/nomflix)
 ### TypeScript
 - 
