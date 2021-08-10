@@ -29,8 +29,8 @@
 - [challenge](https://github.com/wjdghks963/challenge_python)
 
 
-# Velog
-- [Velog](https://velog.io/@wjdghks963)
+# [Velog](https://velog.io/@wjdghks963)
+
 <!---
 wjdghks963/wjdghks963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
