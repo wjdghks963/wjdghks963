@@ -1,6 +1,5 @@
-- 👋 Hi, I’m JungHwan
-- 👀 I’m interested in JS & Phyton
-- 🌱 I’m currently learning algorithm & React & Oracle
+- [velog](https://velog.io/@wjdghks963) 
+
 
 ## Clone Coding
 - [kokoa-clone](https://github.com/wjdghks963/kokoa-clone-2020)
