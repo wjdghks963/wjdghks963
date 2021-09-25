@@ -1,4 +1,4 @@
-- [velog](https://velog.io/@wjdghks963) 
+- [wjdghks963의 velog](https://velog.io/@wjdghks963) 
 
 
 ## Clone Coding
