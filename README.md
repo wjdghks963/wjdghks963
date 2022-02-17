@@ -12,6 +12,7 @@
 
 # Study
 - [js challenge](https://github.com/wjdghks963/wetube_challenge)
+- [TIL](https://github.com/wjdghks963/TIL_dir)
 
 ### Algorithm
 - [Algorithm Python](https://github.com/wjdghks963/algorithm)
