@@ -1,7 +1,7 @@
-- [wjdghks963의 velog](https://velog.io/@wjdghks963) 
-
+- [wjdghks963의 velog](https://velog.io/@wjdghks963)
 
 ## Clone Coding
+
 - [kokoa-clone](https://github.com/wjdghks963/kokoa-clone-2020)
 - [toDoLsit](https://github.com/wjdghks963/js_vanilla_toDoList)
 - [paint](https://github.com/wjdghks963/paintjs)
@@ -9,26 +9,31 @@
 - [wetube](https://github.com/wjdghks963/wetube)
 - [wetube_ver21](https://github.com/wjdghks963/wetube_ver2)
 
-
 # Study
+
 - [js challenge](https://github.com/wjdghks963/wetube_challenge)
 - [TIL](https://github.com/wjdghks963/TIL_dir)
 
 ### Algorithm
+
 - [Algorithm Python](https://github.com/wjdghks963/algorithm)
 
 ### React
+
 - [es6&ts](https://github.com/wjdghks963/react)
 - [react&ts](https://github.com/wjdghks963/typescrip-react-demo)
 - [react with movie api](https://github.com/wjdghks963/nomflix)
+
 ### TypeScript
-- 
+
+-
 
 ### Python
+
 - [scraper](https://github.com/wjdghks963/python_scraper)
 - [challenge](https://github.com/wjdghks963/challenge_python)
 
-
+![snake gif](https://github.com/wjdghks963/wjdghks963/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 wjdghks963/wjdghks963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
