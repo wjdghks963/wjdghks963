@@ -1,7 +1,7 @@
 <a href="https://velog.io/@wjdghks963">
-<img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=JS&logoColor=white"/>
-  </a>
-  
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
+</a>
+
 ## Clone Coding
 
 - [kokoa-clone](https://github.com/wjdghks963/kokoa-clone-2020)
