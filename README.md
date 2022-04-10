@@ -28,6 +28,10 @@
 - [react&ts](https://github.com/wjdghks963/typescrip-react-demo)
 - [react with movie api](https://github.com/wjdghks963/nomflix)
 
+### Next
+
+- [next intro](https://github.com/wjdghks963/nextjs-intro)
+
 
 ### Python
 
