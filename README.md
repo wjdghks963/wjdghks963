@@ -18,22 +18,23 @@
 
 - [TIL](https://github.com/wjdghks963/TIL_dir)
 
-### Algorithm
+### <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=theAlgorithms&logoColor=white">
 
 - [Algorithm Python](https://github.com/wjdghks963/algorithm)
 
-### React
+###  <img src="https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=React&logoColor=white">
 
 - [es6&ts](https://github.com/wjdghks963/react)
 - [react&ts](https://github.com/wjdghks963/typescrip-react-demo)
 - [react with movie api](https://github.com/wjdghks963/nomflix)
 
-### Next
+### <img src="https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next&logoColor=white">
+
 
 - [next intro](https://github.com/wjdghks963/nextjs-intro)
 
 
-### Python
+### <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 - [scraper](https://github.com/wjdghks963/python_scraper)
 - [challenge](https://github.com/wjdghks963/challenge_python)
