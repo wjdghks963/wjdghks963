@@ -11,7 +11,6 @@
 - [toDoLsit](https://github.com/wjdghks963/js_vanilla_toDoList)
 - [paint](https://github.com/wjdghks963/paintjs)
 - [mavie_app](https://github.com/wjdghks963/move_app)
-- [wetube](https://github.com/wjdghks963/wetube)
 - [wetube_ver21](https://github.com/wjdghks963/wetube_ver2)
 
 # Study
