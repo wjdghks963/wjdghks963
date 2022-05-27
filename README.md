@@ -22,7 +22,7 @@
 
 ###  <img src="https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=React&logoColor=white">
 
-- [es6&ts](https://github.com/wjdghks963/react)
+- [react&ts | video-player](https://github.com/wjdghks963/video-project)
 - [react&ts](https://github.com/wjdghks963/typescrip-react-demo)
 - [react with movie api](https://github.com/wjdghks963/nomflix)
 
