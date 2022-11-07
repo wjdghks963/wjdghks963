@@ -32,6 +32,7 @@
 
 
 - [next intro](https://github.com/wjdghks963/nextjs-intro)
+- [my_blog fullstack project](https://github.com/wjdghks963/my-blog)
 
 
 ### <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
