@@ -32,13 +32,22 @@
 
 
 - [next intro](https://github.com/wjdghks963/nextjs-intro)
-- [my_blog fullstack project](https://github.com/wjdghks963/my-blog)
 
 
 ### <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 - [scraper](https://github.com/wjdghks963/python_scraper)
 - [challenge](https://github.com/wjdghks963/challenge_python)
+
+
+# Toy Project
+
+[my_blog fullstack project](https://github.com/wjdghks963/my-blog)
+
+Next.js 기반 개인 블로그 풀스택 프로젝트
+
+
+
 
 ![snake gif](https://github.com/wjdghks963/wjdghks963/blob/output/github-contribution-grid-snake.svg)
 
