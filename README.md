@@ -15,7 +15,6 @@
 
 # Study
 
-- [TIL](https://github.com/wjdghks963/TIL_dir)
 
 ### <img src="https://img.shields.io/badge/Algorithm-00BCB4?style=for-the-badge&logo=theAlgorithms&logoColor=white">
 
