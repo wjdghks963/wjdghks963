@@ -47,10 +47,11 @@ Next.js 기반 개인 블로그 풀스택 프로젝트
 
 [React 18 suspense with jest](https://github.com/wjdghks963/suspenseWithReactQuery)
 
-React 18의 suspense를 이용한 ux향상 체험 & jest, react test library를 이용해 screen interactive 테스트
+React 18 suspense 사용
+jest, react test library 사용한 e2e 테스트
 
 
-![snake gif](https://github.com/wjdghks963/wjdghks963/blob/output/github-contribution-grid-snake.svg)
+
 
 <!---
 wjdghks963/wjdghks963 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
