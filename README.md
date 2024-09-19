@@ -1,14 +1,9 @@
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdghks963">
-
 [![aws-certified-solutions-architect-associate](https://velog.velcdn.com/images/wjdghks963/post/012d6c20-a756-4ebf-96e5-1638f5c0cca4/image.png)](https://www.credly.com/badges/5a24b923-2e52-413e-ab41-0e2fe7b21846/public_url)
 
 
 ## Clone Coding
 
-- [kokoa-clone](https://github.com/wjdghks963/kokoa-clone-2020)
-- [toDoLsit](https://github.com/wjdghks963/js_vanilla_toDoList)
-- [paint](https://github.com/wjdghks963/paintjs)
 - [wetube_ver21](https://github.com/wjdghks963/wetube_ver2)
 - [carrot market with Next.js & TS & Prisma](https://github.com/wjdghks963/clone-carrot-market)
 
