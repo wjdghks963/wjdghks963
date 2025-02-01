@@ -1,6 +1,8 @@
 
 [![aws-certified-solutions-architect-associate](https://velog.velcdn.com/images/wjdghks963/post/012d6c20-a756-4ebf-96e5-1638f5c0cca4/image.png)](https://www.credly.com/badges/5a24b923-2e52-413e-ab41-0e2fe7b21846/public_url)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/wjdghks963?theme=nord&font=Overlock&ext=heatmap)
+
 
 ## Clone Coding
 
@@ -14,6 +16,8 @@
 
 - [Algorithm Python](https://github.com/wjdghks963/algorithm)
 - [Algorithm Kotlin](https://github.com/wjdghks963/algorithm_kotlin)
+
+
 
 ###  <img src="https://img.shields.io/badge/REACT-61dafb?style=for-the-badge&logo=React&logoColor=white">
 
